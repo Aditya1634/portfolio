@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Express.js', 'Flutter', 'Firebase', 'Java'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Aditya and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
+              Hello! My name is Aditya and I’m driven by the power of technology to solve real-world challenges. My journey as a software engineer began with small projects and has evolved into creating impactful digital solutions.
 
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <br></br>
+              <br></br>
+              I started with mobile development using Flutter, where I crafted dynamic applications that sharpened my skills in designing and building user-focused products. My main focus these days is on full-stack development. Over the past four months, I’ve co-developed two robust projects using the MERN stack, further deepening my expertise in this domain.
             </p>
-
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+            Along the way, I’ve had incredible opportunities to grow and lead. I worked at{' '} 
+              <a href="https://infed.in"> Central India’s largest incubator</a>,{' '}
+              gaining valuable industry exposure, I led {' '}
+              <a href="https://gdg.community.dev/gdg-on-campus-bajaj-institute-of-technology-wardha-india/"> a developer club</a>,{' '}
+              fostering collaboration and innovation. I have also qualified the,{' '}
+              <a href="https://www.linkedin.com/posts/aditya-dhage-3b518b230_gate2024-achievementunlocked-neverstoplearning-activity-7175176829568262144-Gmha?utm_source=social_share_sheet&utm_medium=member_desktop_web">GATE 2024 exam</a>, and{' '}
+              marking another milestone in my academic journey.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
