@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Aditya Dhage',
     description:
-      'Aditya Dhage is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://github.com/Aditya1634', // No trailing slash allowed!
+      'Aditya Dhage is a software engineer committed to bridging the gap between ideas and solutions.',
+    siteUrl: 'https://aditya-dhage.vercel.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@AdityaD1604',
   },
